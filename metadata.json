@@ -1,0 +1,5 @@
+{
+  "name": "Laundry Pod Master Pro - Production Scheduler",
+  "description": "An automated, minute-precise production scheduling system for laundry pod manufacturing, featuring dynamic line-sequencing, real-time updates, and AI-powered optimization.",
+  "requestFramePermissions": []
+}
